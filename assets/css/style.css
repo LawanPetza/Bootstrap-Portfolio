@@ -24,6 +24,7 @@ h2,
 h3,
 p {
   margin-bottom: 20px;
+  color: #fff
 }
 
 p:last-child {
@@ -168,13 +169,13 @@ h3, h2 {
   border-bottom: 0;
 }
 
-.auth-image {
+/* .auth-image {
   float: left;
   width: 200px;
-  height: auto;
+  height: 100px;
   margin-top: 10px;
   margin-right: 25px;
-}
+} */
 
 /* contact page */
 
