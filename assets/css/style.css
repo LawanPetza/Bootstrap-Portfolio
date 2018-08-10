@@ -24,7 +24,6 @@ h2,
 h3,
 p {
   margin-bottom: 20px;
-  color: #fff
 }
 
 p:last-child {
@@ -43,7 +42,7 @@ h1 {
   padding-bottom: 20px;
   font-size: 30px;
   line-height: 49px;
-  border-bottom: 3px solid #ddd;
+  /* border-bottom: 3px solid #ddd; */
 }
 
 h2,
@@ -79,7 +78,7 @@ h3 {
 }
 
 nav {
-  float: right;
+  /* float: right; */
   margin-top: 25px;
 }
 
@@ -109,6 +108,7 @@ footer {
   background: #666;
   border-top: 8px solid #4aaaa5;
   height: 50px;
+  margin-top: 10px;
 }
 
 h3, h2 {
@@ -172,20 +172,20 @@ h3, h2 {
 /* .auth-image {
   float: left;
   width: 200px;
-  height: 100px;
+  height: 150px;
   margin-top: 10px;
   margin-right: 25px;
 } */
 
 /* contact page */
 
-#contact-form ul {
+/* #contact-form ul {
   margin-bottom: 20px;
 }
 
 #contact-form li {
   margin-bottom: 10px;
-}
+} */
 
 label,
 input[type=text],
